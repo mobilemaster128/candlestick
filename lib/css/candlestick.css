@@ -9,6 +9,7 @@
     display: inline-block;
     width: 60px;
     height: auto;
+    text-align: left;
 }
 
 .candlestick-wrapper .candlestick-bg.candlestick-disabled {
